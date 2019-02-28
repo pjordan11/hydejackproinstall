@@ -7,24 +7,16 @@ basics:
   picture: "https://placehold.it/126x126"
   email: "jordan dot pat at gmail dot com"
   phone: "(414) 534-3353"
-  website: "https://piedpiper.com"
+  website: "https://pjordan.co"
   summary: >
     **THIS IS AN EXAMPLE RESUME**.
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Test test test. 
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+  #  address: "2712 Broadway St"
+    postalCode: "NY 11217"
+    city: "Brooklyn"
     countryCode: "US"
-    region: "California"
+    region: "New York City"
   profiles:
     - network: "Twitter"
       username: "RHendricksCEO"
@@ -49,7 +41,7 @@ work:
 education:
   - institution: "Georgetown University"
     area: "Business Administration"
-    studyType: "Bachelor"
+    studyType: "MBA"
     startDate: "2011-08-01"
     endDate: "2013-05-01"
   - institution: "Lawrence University"
@@ -59,11 +51,12 @@ education:
     endDate: "2008-06-01"
 
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "Using technology to enhance medication regimen education after solid organ transplantation"
+    publisher: "American Journal of Health-System Pharmacy"
+    releaseDate: "2018-12-01"
+    website: "https://academic.oup.com/ajhp/article-abstract/75/23/1930/5237679"
+    summary: "An innovative approach for interactive and engaging medication teaching for solid organ transplant recipients."
+    
 skills:
   - name: "Web Development"
     level: "Master"
@@ -71,12 +64,7 @@ skills:
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      
 interests:
   - name: "Wildlife"
     keywords:
