@@ -44,11 +44,13 @@ education:
     studyType: "MBA"
     startDate: "2011-08-01"
     endDate: "2013-05-01"
+    gpa: ""
   - institution: "Lawrence University"
     area: "Government, Spanish"
     studyType: "Bachelor"
     startDate: "2004-09-01"
     endDate: "2008-06-01"
+    gpa: ""
 
 publications:
   - name: "Using technology to enhance medication regimen education after solid organ transplantation"
