@@ -5,9 +5,9 @@ basics:
   # email: "jordan dot pat at gmail dot com"
   # phone: "(414) 534-3353"
   website: "https://pjordan.co"
-  summary: >
-    **THIS IS AN EXAMPLE RESUME**.
-    Test test test. 
+#  summary: >
+#    **THIS IS AN EXAMPLE RESUME**.
+#    Test test test. 
   location:
   #  address: "2712 Broadway St"
     # postalCode: "NY 11217"
