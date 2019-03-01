@@ -1,6 +1,6 @@
 ---
-layout: page
 cover: true
+layout: page
 title: Patrick Jordan
 ---
 
