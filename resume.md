@@ -1,9 +1,8 @@
 ---
 layout: resume
-title: Résumé*
+title: Resume
 description: >
-  This is the `description` of your resume page, as it will be seen by search engines.
-  Open `resume.md` to edit this text.
+  I work in digital health, often focusing on how patients use technology to interact with their care. I have experience across the provider, government, and vendor spaces. I'm passionate about patient education and using new technology to extend capabilities.
 hide_description: false
 menu: true
 order: 3
