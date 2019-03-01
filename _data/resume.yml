@@ -8,13 +8,10 @@ basics:
   # email: "patrick@ppjordan.co"
   # phone: ""
   website: "https://pjordan.co"
-  
   summary: >
-   # **THIS IS AN EXAMPLE RESUME**.
-   # Test test test. 
-  
+    Summary.
   location:
-  #  address: "2712 Broadway St"
+   # address: "2712 Broadway St"
     # postalCode: "NY 11217"
     city: "Brooklyn"
     countryCode: "US"
@@ -54,8 +51,8 @@ work:
 - company: "Epic"
     position: "Project Manager / Implementation Consultant"
     website: "https://www.epic.com"
-    startDate: "2012-01-01"
-    endDate: "2012-06-01"
+    startDate: "2008-08-01"
+    endDate: "2011-05-01"
     summary: >
       Ran implementations for Epic's ADT, Cadence, and Prelude products.
       Helped customers get live quickly and maixmize the value of the products. 
@@ -92,9 +89,8 @@ skills:
       - "Python"
       - "R"
       - "VBA"
-      
-      
-#interests:
+            
+interests:
 #  - name: "Wildlife"
 #    keywords:
 #      - "Ferrets"
