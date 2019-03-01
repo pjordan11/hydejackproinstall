@@ -4,16 +4,16 @@
 basics:
   name: "Patrick Jordan"
   label: "Digital Health"
-  picture: "https://placehold.it/126x126"
-  email: "jordan dot pat at gmail dot com"
-  phone: "(414) 534-3353"
+  picture: "/assets/img/pj_author128.png"
+  # email: "jordan dot pat at gmail dot com"
+  # phone: "(414) 534-3353"
   website: "https://pjordan.co"
   summary: >
     **THIS IS AN EXAMPLE RESUME**.
     Test test test. 
   location:
   #  address: "2712 Broadway St"
-    postalCode: "NY 11217"
+    # postalCode: "NY 11217"
     city: "Brooklyn"
     countryCode: "US"
     region: "New York City"
