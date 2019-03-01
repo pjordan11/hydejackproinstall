@@ -1,28 +1,25 @@
-# If you have a `resume.json` file, copy it into `_data` and delete this file.
-# If you don't have a JSON Resume you can just edit this YAML file instead.
-# See also: <https://jsonresume.org/>.
-basics:
   name: "Patrick Jordan"
   label: "Digital Health"
   picture: "/assets/img/pj_author128.png"
-  # email: "patrick@ppjordan.co"
-  # phone: ""
+  # email: "jordan dot pat at gmail dot com"
+  # phone: "(414) 534-3353"
   website: "https://pjordan.co"
   summary: >
-    Summary.
+    **THIS IS AN EXAMPLE RESUME**.
+    Test test test. 
   location:
-   # address: "2712 Broadway St"
+  #  address: "2712 Broadway St"
     # postalCode: "NY 11217"
     city: "Brooklyn"
     countryCode: "US"
     region: "New York City"
   profiles:
-    #- network: "Twitter"
-    # username: "RHendricksCEO"
-    # url: ""
+    - network: "Twitter"
+      username: "RHendricksCEO"
+      url: ""
     - network: "LinkedIn"
-      username: "patrickjordan1"
-      url: "https://www.linkedin.com/in/patrickjordan1/"
+      username: "Richard Hendricks"
+      url: ""
 work:
   - company: "NewYork-Presbyterian Hospital"
     position: "Manager - Patient Engagement Technology"
@@ -30,37 +27,13 @@ work:
     startDate: "2013-07-01"
     endDate: ""
     summary: >
-      Ran patient facing technology for the #1 hospital in New York. Focused specifically in expanding patient access
-      to records, improving patient education, and strengthing our marketing department's toolset. 
+      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
+      consistently fielded high Weisman Scores™ that are not merely competitive,
+      but approach the theoretical limit of lossless compression.
     highlights:
       - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
-  
-  - company: "US Department of Health and Human Services"
-    position: "Operations Intern - Office of Business Management and Transformation"
-    website: "https://hhs.gov"
-    startDate: "2012-01-01"
-    endDate: "2012-06-01"
-    summary: >
-      Worked as a student intern within HHS's internal consulting branch. I focused on process analysis and using operations theory
-      to improve 
-    highlights:
-      - "Analyzed workflow and proposed recommendations to speed up medicare appeal process"
-
-- company: "Epic"
-    position: "Project Manager / Implementation Consultant"
-    website: "https://www.epic.com"
-    startDate: "2008-08-01"
-    endDate: "2011-05-01"
-    summary: >
-      Ran implementations for Epic's ADT, Cadence, and Prelude products.
-      Helped customers get live quickly and maixmize the value of the products. 
-    highlights:
-      - "Ran access systems implementations for 3 of largest US healthcare systems"
-      - "Helped restructure access applications implementation process"
-     
-      
 education:
   - institution: "Georgetown University"
     area: "Business Administration"
@@ -83,16 +56,15 @@ publications:
     summary: "An innovative approach for interactive and engaging medication teaching for solid organ transplant recipients."
     
 skills:
-  - name: "Programming for Analytics"
+  - name: "Web Development"
     level: "Master"
     keywords:
-      - "Python"
-      - "R"
-      - "VBA"
-            
+      - "HTML"
+      - "CSS"
+      - "Javascript"
+      
 interests:
-#  - name: "Wildlife"
-#    keywords:
-#      - "Ferrets"
-#      - "Unicorns"
-
+  - name: "Wildlife"
+    keywords:
+      - "Ferrets"
+      - "Unicorns"
