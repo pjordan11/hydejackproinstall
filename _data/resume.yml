@@ -35,19 +35,7 @@ work:
       - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
       - "Successfully won Techcrunch Disrupt"
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
-  - company: "US Department of Health and Human Services"
-    position: "Operations Intern"
-    website: "https://www.hhs.gov"
-    startDate: "2012-01-01"
-    endDate: "2012-06-01"
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+
 education:
   - institution: "Georgetown University"
     area: "Business Administration"
