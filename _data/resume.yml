@@ -1,4 +1,4 @@
-basics:  
+basics:
   name: "Patrick Jordan"
   label: "Digital Health"
   picture: "/assets/img/pj_author128.png"
@@ -7,7 +7,7 @@ basics:
   website: "https://pjordan.co"
 #  summary: >
 #    **THIS IS AN EXAMPLE RESUME**.
-#    Test test test. 
+#    Test test test.
   location:
   #  address: "2712 Broadway St"
     # postalCode: "NY 11217"
@@ -26,29 +26,27 @@ work:
     position: "Manager - Patient Engagement Technology"
     website: "https://nyp.org"
     startDate: "2013-07-01"
-    endDate: ""
+    endDate: "2019-05-01"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      I managed planning and operations for NewYork-Presbyterian's patient facing technologies. I specialized
+      in patient portals, patient education, and patient access technologies.
     highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
+      - "Improved patient portal adoption"
+      - "Ran large-scale RFPs for patient education and CRM systems."
       - "Optimized an algorithm that holds the current world record for Weisman Scores"
-  
+
   - company: "US Department of Health and Human Services"
     position: "Operations Intern"
     website: "https://hhs.gov"
     startDate: "2012-01-01"
     endDate: "2012-06-01"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      I was an intern for the Office of Business Management and Transformation.
+      I used operational theory and statistical analysis to solve problems @ HHS.
+#    highlights:
+#      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
+#      - "Successfully won Techcrunch Disrupt"
+#      - "Optimized an algorithm that holds the current world record for Weisman Scores"
 
 education:
   - institution: "Georgetown University"
@@ -56,13 +54,12 @@ education:
     studyType: "MBA"
     startDate: "2011-08-01"
     endDate: "2013-05-01"
-    
+
   - institution: "Lawrence University"
     area: "Government, Spanish"
     studyType: "Bachelor"
     startDate: "2004-09-01"
     endDate: "2008-06-01"
-    gpa: "0"
 
 publications:
   - name: "Using technology to enhance medication regimen education after solid organ transplantation"
@@ -70,17 +67,17 @@ publications:
     releaseDate: "2018-12-01"
     website: "https://academic.oup.com/ajhp/article-abstract/75/23/1930/5237679"
     summary: "An innovative approach for interactive and engaging medication teaching for solid organ transplant recipients."
-    
+
 skills:
-  - name: "Web Development"
+  - name: "Excel"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-      
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "VBA"
+      - "Pivots"
+      - "Analysis"
+
+# interests:
+#  - name: "Wildlife"
+#    keywords:
+#      - "Ferrets"
+#      - "Unicorns"
