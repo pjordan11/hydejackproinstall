@@ -27,12 +27,12 @@ title:                 Patrick Jordan
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi I'm Patrick. I live in Brooklyn, NY. I work in digital health and love sci-fi, records, and cooking. 
+  Hi I'm Patrick. I live in Brooklyn, NY. I work in digital health and love sci-fi, records, and cooking.
 
 # A shorter description for the sidebar.
 tagline:               >
   Hi, I'm Patrick👨‍💻.
-  I work in healthcare tech and live in Brooklyn.
+  I work in healthcare tech and live in Boston.
   I love records, soccer, tech, sci-fi, and cooking.
 
 # A list of keywords for your blog
@@ -44,8 +44,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Patrick Jordan
+  email:               patrick@pjordan.co
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
