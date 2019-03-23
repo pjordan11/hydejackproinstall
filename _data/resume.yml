@@ -11,9 +11,9 @@ basics:
   location:
   #  address: "2712 Broadway St"
     # postalCode: "NY 11217"
-    city: "Brooklyn"
+    city: "Boston"
     countryCode: "US"
-    region: "New York City"
+    #region: "New York City"
   profiles:
    # - network: "Twitter"
    #   username: "RHendricksCEO"
