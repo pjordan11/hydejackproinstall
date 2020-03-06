@@ -10,10 +10,10 @@ basics:
 #    Test test test.
   location:
   #  address: "2712 Broadway St"
-    # postalCode: "NY 11217"
-    #city: "Boston"
-    #countryCode: "US"
-    region: "Boston"
+    postalCode: "MA 02130"
+    city: "Boston"
+    countryCode: "US"
+    #region: "Boston"
   profiles:
    # - network: "Twitter"
    #   username: "RHendricksCEO"
