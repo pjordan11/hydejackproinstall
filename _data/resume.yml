@@ -10,7 +10,7 @@ basics:
 #    Test test test.
   location:
   #  address: "2712 Broadway St"
-    postalCode: "MA 02130"
+  # postalCode: "MA 02130"
     city: "Boston"
     countryCode: "US"
     #region: "Boston"
