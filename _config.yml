@@ -47,7 +47,7 @@ author:
   name:                Patrick Jordan
   email:               patrick@pjordan.co
   # Used by `jekyll-seo-tag`:
-  twitter:             pj0rdan
+  # twitter:             pj0rdan
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020 Patrick Jordan. All rights reserved.
@@ -229,9 +229,9 @@ plugins:
 # Used on index and about sites
 # social:
 #   name:                <firstname> <lastname>
-   links:
-    - https://twitter.com/pj0rdan
-    - https://github.com/pjordan11
+#   links:
+#    - https://twitter.com/pj0rdan
+#    - https://github.com/pjordan11
 
 
 # Other Plugins
