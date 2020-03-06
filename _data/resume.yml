@@ -11,9 +11,9 @@ basics:
   location:
   #  address: "2712 Broadway St"
     # postalCode: "NY 11217"
-    city: "Boston"
+    #city: "Boston"
     #countryCode: "US"
-    #region: "New York City"
+    region: "Boston"
   profiles:
    # - network: "Twitter"
    #   username: "RHendricksCEO"
@@ -22,18 +22,30 @@ basics:
       username: "patrickjordan1"
       url: "https://www.linkedin.com/in/patrickjordan1/"
 work:
+  - company: "Boston Children's Hospital - Innovation & Digital Health Accelerator"
+    position: "Sr Manager - Digital Access Strategy"
+    website: "https://nyp.org"
+    startDate: "2019-04-01"
+    #endDate: "2019-05-01"
+    summary: >
+      I'm responsible for planning Boston Children's digital transformation efforts to improve family access to resources and care.
+    #highlights:
+     # - "Improved patient portal adoption"
+     # - "Ran large-scale RFPs for patient education and CRM systems."
+     # - "Optimized an algorithm that holds the current world record for Weisman Scores"
+  
   - company: "NewYork-Presbyterian Hospital"
     position: "Manager - Patient Engagement Technology"
     website: "https://nyp.org"
     startDate: "2013-07-01"
-    endDate: "2019-05-01"
+    endDate: "2019-04-01"
     summary: >
       I managed planning and operations for NewYork-Presbyterian's patient facing technologies. I specialized
       in patient portals, patient education, and patient access technologies.
-    highlights:
-      - "Improved patient portal adoption"
-      - "Ran large-scale RFPs for patient education and CRM systems."
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+    #highlights:
+     # - "Improved patient portal adoption"
+     # - "Ran large-scale RFPs for patient education and CRM systems."
+     # - "Optimized an algorithm that holds the current world record for Weisman Scores"
 
   - company: "US Department of Health and Human Services"
     position: "Operations Intern"
@@ -68,13 +80,13 @@ publications:
     website: "https://academic.oup.com/ajhp/article-abstract/75/23/1930/5237679"
     summary: "An innovative approach for interactive and engaging medication teaching for solid organ transplant recipients."
 
-skills:
-  - name: "Excel"
-    level: "Master"
-    keywords:
-      - "VBA"
-      - "Pivots"
-      - "Analysis"
+#skills:
+ # - name: "Excel"
+ #  level: "Master"
+ #  keywords:
+ #    - "VBA"
+ #    - "Pivots"
+ #    - "Analysis"
 
 # interests:
 #  - name: "Wildlife"
