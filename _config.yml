@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Patrick Jordan"
   avatar : "/assets/images/profile2.png"
-  bio    : "Hi I'm Patrick. I live in Boston and work in digital health. I enjoy
+  bio    : "Hi 👋  I'm Patrick. I live in Boston and work in digital health. I enjoy
   records, videogames, science fiction, and soccer."
   links:
     - label: "LinkedIn"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/patrickjordan1/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -93,7 +93,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
