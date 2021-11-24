@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Patrick Jordan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "It's me!"
+  bio    : "Hi I'm Patrick. I live in Boston, work in digital health, and "
   links:
     - label: "LinkedIn"
       icon: ""fab fa-fw fa-linkedin""
