@@ -9,7 +9,7 @@ Things I'm up to:
 * Reading my daughter all sorts of board books. Best "My Nap". Worst "Bedtime Bear"
 * In love with Numero Group's "Of Love & Androids" comp
 * Reading Hua Hsu's "Stay True"
-* Baking bread and pizzas at home weekly
+* Baking bread and pizzas at home weekly.
 
 About Me:
 * From: Greater Milwaukee
